@@ -1,0 +1,6 @@
+print(5)
+print(-10)
+print(3.14)
+print(3+5)
+print(5*8)
+print(111111111111111111111)
