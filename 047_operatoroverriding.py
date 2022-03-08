@@ -1,6 +1,3 @@
-from turtle import speed
-
-
 class Unit:
     def __init__(self,name,hp,speed):
         self.name = name
